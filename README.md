@@ -57,9 +57,9 @@ Se você quiser contribuir financeiramente para o esforço (ou qualquer outro tr
 
 ## Treinamento presencial 
 
-The content for this book derives heavily from a training workshop I teach professionally (in both public and private-corporate workshop format) of the same name.
+O conteúdo deste livro deriva fortemente do workshop de treinamento que ensino profissionalmente (em formato de workshop público e privado) com o mesmo nome.
 
-If you like this content and would like to contact me regarding conducting training on this, or other various JS/HTML5/Node.js topics, please reach out to me through email: getify @ gmail
+Se você gostar deste conteúdo e quiser entrar em contato comigo para a realização de treinamento sobre este ou outros tópicos de JS/HTML5/Node.js, entre em contato comigo por e-mail: getify@gmail
 
 ## Online Video Training
 
