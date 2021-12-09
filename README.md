@@ -26,7 +26,7 @@ Mas eu quero que você seja capaz de aplicar alguns dos fundamentos do FP ao seu
 
 [Tabela com o conteúdo](manuscript/README.md/#table-of-contents)
 
-* [Prefácio](manuscript/foreword.md/#foreword) (por [Brian Lonsdorf, aka "Prof Frisby"](https://twitter.com/DrBoolean))
+* [Introdução](manuscript/foreword.md/#foreword) (por [Brian Lonsdorf, aka "Prof Frisby"](https://twitter.com/DrBoolean))
 * [Prefácio](manuscript/preface.md/#preface)
 * [Capitulo 1: Por que Programação Funcional?](manuscript/ch1.md/#chapter-1-why-functional-programming)
 * [Capitulo 2: A Natureza das Funções](manuscript/ch2.md/#chapter-2-the-nature-of-functions)
